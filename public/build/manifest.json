@@ -1,0 +1,65 @@
+{
+  "_bootstrap.esm-D0-2XY0h.js": {
+    "file": "assets/bootstrap.esm-D0-2XY0h.js",
+    "name": "bootstrap.esm"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-D1LuMI3I.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-D_cYUPeE.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-DZaxPHgR.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-BjRzuEpd.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-D0aA9rwL.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-CTAAxXor.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/trumbowyg/dist/ui/icons.svg": {
+    "file": "assets/icons-RHKppekq.svg",
+    "src": "node_modules/trumbowyg/dist/ui/icons.svg"
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin-BL91KHiw.js",
+    "name": "admin",
+    "src": "resources/js/admin.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap.esm-D0-2XY0h.js"
+    ],
+    "assets": [
+      "assets/icons-RHKppekq.svg"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-D7sN0LYR.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap.esm-D0-2XY0h.js"
+    ]
+  },
+  "resources/sass/admin.scss": {
+    "file": "assets/admin-C2DyqxM7.css",
+    "src": "resources/sass/admin.scss",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-Bi_qtoMv.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
